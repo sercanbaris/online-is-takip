@@ -12,7 +12,7 @@ export default function Home() {
       </main>
       <footer className={styles.footer}>
 
-      <p>Designing by Sercan Barış</p>
+      <p>Geleceğin İş Takip Sistemi</p>
       </footer>
     </div>
   );
